@@ -8,6 +8,9 @@ namespace NewTestConsoleProject
         {
             Console.WriteLine("Welcome to our console app!");
             Console.WriteLine("Let's begin!");
+            Console.WriteLine("Enter first number...");
+            Console.WriteLine("Enter second number...");
+            Console.WriteLine(Calc.Sum(3, 5));
         }
     }
 
