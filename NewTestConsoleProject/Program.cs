@@ -13,7 +13,7 @@ namespace NewTestConsoleProject
 
     static class Calc
     {
-        static int Add(int num1, int num2)
+        static int Sum(int num1, int num2)
         {
             return num1 + num2;
         }
